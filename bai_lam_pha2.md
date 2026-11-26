@@ -2,7 +2,7 @@
 
 - **Họ tên:phạm xuân trường**
 - **Lớp:cntt3**
-- **Link repository Pha2:https://github.com/truongxuan130208-dotcom/bailuyentap.git**
+- **Link repository Pha2:https://github.com/truongxuan130208-dotcom/ky_nang_promting_voi_Al/blob/1df2daea04d68538c8541a8fce01da6da94dd91c/bai_lam_pha2.md**
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):gemini**
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
