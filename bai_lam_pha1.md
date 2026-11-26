@@ -2,7 +2,7 @@
 
 - **Họ tên:phạm xuân trường**
 - **Lớp:CNTT3**
-- **Link repository :https://github.com/truongxuan130208-dotcom/bailuyentap.git**
+- **Link repository :https://github.com/truongxuan130208-dotcom/ky_nang_promting_voi_Al/blob/90fdfc51f1abb267c0951559479907d90b470ade/bai_lam_pha1.md**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
